@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Misc Code
  * Description: A simple plugin to add miscellaneous code snippets to the website.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Ray Flores
  * Author URI: https://rayflores.com
  * License: GPL2
@@ -20,7 +20,7 @@ use Misc_Code\Updater_Checker;
 $github_username        = 'rayflores'; // Use your gitbub username.
 $github_repository      = 'misccode'; // Use your repository name.
 $plugin_basename        = plugin_basename( __FILE__ ); // Check note below.
-$plugin_current_version = '1.0.1'; // Use the current version of the plugin.
+$plugin_current_version = '1.0.2'; // Use the current version of the plugin.
 
 $updater = new Updater_Checker(
 	$github_username,
