@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Misc Code
  * Description: A simple plugin to add miscellaneous code snippets to the website.
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Ray Flores
  * Author URI: https://rayflores.com
  * License: GPL2
